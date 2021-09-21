@@ -1,5 +1,7 @@
 # Etude-de-sante-publique
 
+Ce projet a été réalisé dans le cadre de la formation Data Analyst (Bac +3/4, certifié RNCP) proposé par OpenClassrooms.
+
 ## Compétences évaluées :
 
 Effectuer des requêtes complexes en SQL
